@@ -4,13 +4,7 @@
 
 </div>
 
-<table align="right">
- <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/morgan09mj/morgan09mj/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
-
-</table>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morgan09mj&label=Profile%20views&color=0e75b6&style=flat" alt="morgan09mj" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=morgan09mj&label=Profile%20views&color=0e75b6&style=flat" alt="helenAzad" />
 </p>
 
 <br>
@@ -23,7 +17,7 @@
 </p>
 
 <!-- <p align="center">
-  <a href="m.s.mousazade09@gmail.com" title="Email">
+  <a href="helen.azad444@gmail.com" title="Email">
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
    
   </a>
@@ -37,10 +31,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+linked
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/farnaz-khoshdoost-778826200)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sadegh-mousazade/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/morgan_.fs/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.s.mousazade09@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helen.azad444@gmail.com)
   
 </div>
 
@@ -59,8 +53,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="220"/>
 
 - Computer engineer student in Iran University of Science and Technology (IUST)
-- Learning to game development
-- front end developer
+- Learning Machine Learning
+- Learning Data Analysis
+- Learning Data Science
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
@@ -176,10 +171,6 @@
     <img alt="visitors counter" src="https://profile-counter.glitch.me/morgan09mj/count.svg">
    </div>
 </details>
-
-<!-- ![Snake animation](https://github.com/morgan09mj/morgan09mj/blob/output/github-contribution-grid-snake.svg) -->
-
- 
  
 <div>
  
