@@ -8,16 +8,16 @@
 
 <h1 align="center"> <b> Whoami ?  </b> </h1>
 
-<h4 align="center"> I’m computer Engineer who study at IUST</h4>
+<h4 align="center"> I’m a computer Engineer who study at IUST</h4>
 
 <h4 align="center"> Junior Data Scientist | Data Analyst | ML Engineer :face_in_clouds: </h4>
 <h4 align="center"> Believes in the fact that <b><i>"Knowledge is Power" :muscle: </i></b> </h4>
 <br></br>
 
 <h5 align="center"> <a href="https://khoshdoost.github.io/">Check out My Website (in progress) </a> </h5> 
-
+<!--
 <h5 align="center"> <a href="https://khoshdoost.github.io/moviewave/">One of my recent Project ( website ) </a> </h5> 
-
+-->
 <br/>
 
 
@@ -42,7 +42,7 @@ Now I don't know how to quit !
 <br/>
 
 #### 🌟 Visitors over time
-![](https://komarev.com/ghpvc/?username=greyhatguy007&label=PROFILE+VIEWS&style=plastic)
+![](https://komarev.com/ghpvc/?username=helenAzad&label=PROFILE+VIEWS&style=plastic)
 
 <br/>
 
@@ -50,19 +50,15 @@ Now I don't know how to quit !
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 <br/>
 
 <b> IDE's & Editors - Up & Running </b>
 
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -84,8 +80,6 @@ Now I don't know how to quit !
 <b> Frameworks </b>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 <br/>
 
@@ -94,7 +88,7 @@ Now I don't know how to quit !
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <br></br>
 </p>
-
+<!--
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
@@ -107,23 +101,15 @@ Now I don't know how to quit !
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark"> </a>
 </p>
 <br></br>
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=greyhatguy007&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
+-->
+<!--
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=greyhatguy007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div/>
-
-<div align="center">
-<!--
-<h3> Time Spent </h3>
-
-[![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
-
-[![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<div align="center">
 <!--
     
  <h3> Leetcode Stats  </h3>
