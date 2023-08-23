@@ -6,15 +6,15 @@
 -->
 <br/>
 
-<h1 align="center"> <b> Whoami ?  </b> </h1>
+<h1 align="center"> <b> WhoAmI ?!  </b> </h1>
 
-<h4 align="center"> I’m a computer Engineer who study at IUST</h4>
+<h4 align="center"> my name is Farnaz Khoshdoost Azad</h4>
+<h4 align="center">I'm a computer Engineer at IUST</h4>
 
 <h4 align="center"> Junior Data Scientist | Data Analyst | ML Engineer :face_in_clouds: </h4>
 <h4 align="center"> Believes in the fact that <b><i>"Knowledge is Power" :muscle: </i></b> </h4>
 <br></br>
-
-<h5 align="center"> <a href="https://khoshdoost.github.io/">Check out My Website (in progress) </a> </h5> 
+<h5 align="center"> <a href="https://github.com/helenAzad/khoshdoost.github.io">Check out My Website (in progress) </a> </h5> 
 <!--
 <h5 align="center"> <a href="https://khoshdoost.github.io/moviewave/">One of my recent Project ( website ) </a> </h5> 
 -->
@@ -36,7 +36,20 @@ Now I don't know how to quit !
   <br/>
   <br/>
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/antlr/antlr.png" alt="antlr" width="40" height="40"/>
+<img src="https://ih1.redbubble.net/image.3523517353.9092/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="postgresql" width="40" height="40"/>
+<img src="https://phocode.com/wp-content/uploads/2016/03/django-logo.png" alt="django" width="40" height="40"/>
+<img src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" alt="python" width="40" height="40"/>
+<img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1f8fcead3b_fdcad5ca.png" alt="c#" width="40" height="40"/></a> 
 </p>
 
 <br/>
@@ -52,7 +65,6 @@ Now I don't know how to quit !
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 <br/>
@@ -91,21 +103,21 @@ Now I don't know how to quit !
 <!--
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenAzad&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
   <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helenAzad&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark"> </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helenAzad&theme=dark"> </a>
 </p>
 <br></br>
 -->
 <!--
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=greyhatguy007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=helenAzad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div/>
 -->
