@@ -1,8 +1,9 @@
+<!--
 <p align="center">
 
  <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Farnaz Khoshdoost Azad 👋 I'm a 🚀 computer Engineer 🚀 I ❤️ Happy learner ❤️">
 </p>
-
+-->
 <br/>
 
 <h1 align="center"> <b> Whoami ?  </b> </h1>
@@ -88,18 +89,6 @@ Now I don't know how to quit !
 
 <br/>
 
-
-
-<br/>
-
-<b> Current Rig 🔥 </b>
-
-![lap](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![proc](https://img.shields.io/badge/Intel%20Core_i5_9th%20Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![grap](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-<br/>
-
 <p align="center">
 <br></br>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -128,19 +117,19 @@ Now I don't know how to quit !
 <div/>
 
 <div align="center">
-
+<!--
 <h3> Time Spent </h3>
 
 [![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
 
 [![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
-
-
+-->
+<!--
     
  <h3> Leetcode Stats  </h3>
     
  ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?ext=heatmap&theme=dark)
- 
+ -->
 
 </div>
 
@@ -156,9 +145,5 @@ Now I don't know how to quit !
 #### mail: helen.azad444@gmail.com
 
 ## Reach Me ☝️☝️☝️
-
-
-![](https://hit.yhype.me/github/profile?user_id=77543865)
-
 
 Buy Me a Book ! 
