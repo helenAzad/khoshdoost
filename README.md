@@ -8,10 +8,10 @@
 
 <h1 align="center"> <b> WhoAmI ?!  </b> </h1>
 
-<h4 align="center"> my name is Farnaz Khoshdoost Azad</h4>
+<h4 align="center"> My name is Farnaz Khoshdoost Azad</h4>
 <h4 align="center">I'm a computer Engineer at IUST</h4>
 
-<h4 align="center"> Junior Data Scientist | Data Analyst | ML Engineer :face_in_clouds: </h4>
+<h4 align="center">  A Junior Data Scientist | Data Analyst | ML Engineer :face_in_clouds: </h4>
 <h4 align="center"> Believes in the fact that <b><i>"Knowledge is Power" :muscle: </i></b> </h4>
 <br></br>
 <h5 align="center"> <a href="https://github.com/helenAzad/khoshdoost.github.io">Check out My Website (in progress) </a> </h5> 
@@ -22,12 +22,9 @@
 
 
 ```python
-
 Started with a little bit ;
 Now I don't know how to quit !
 ```
-
-
 
 <hr> </hr>
 
